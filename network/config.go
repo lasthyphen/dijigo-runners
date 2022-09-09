@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/ava-labs/avalanche-network-runner/network/node"
-	"github.com/ava-labs/avalanche-network-runner/utils"
+	"github.com/lasthyphen/dijigo-runners/network/node"
+	"github.com/lasthyphen/dijigo-runners/utils"
 	"github.com/lasthyphen/beacongo/genesis"
 	"github.com/lasthyphen/beacongo/ids"
 	"github.com/lasthyphen/beacongo/utils/constants"

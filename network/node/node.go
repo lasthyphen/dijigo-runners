@@ -6,7 +6,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/ava-labs/avalanche-network-runner/api"
+	"github.com/lasthyphen/dijigo-runners/api"
 	"github.com/lasthyphen/beacongo/config"
 	"github.com/lasthyphen/beacongo/ids"
 	"github.com/lasthyphen/beacongo/network/peer"

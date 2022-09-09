@@ -8,9 +8,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/ava-labs/avalanche-network-runner/local"
-	"github.com/ava-labs/avalanche-network-runner/network"
-	"github.com/ava-labs/avalanche-network-runner/network/node"
+	"github.com/lasthyphen/dijigo-runners/local"
+	"github.com/lasthyphen/dijigo-runners/network"
+	"github.com/lasthyphen/dijigo-runners/network/node"
 	"github.com/lasthyphen/beacongo/config"
 	"github.com/lasthyphen/beacongo/staking"
 	"github.com/lasthyphen/beacongo/utils/logging"

@@ -14,11 +14,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ava-labs/avalanche-network-runner/client"
-	"github.com/ava-labs/avalanche-network-runner/pkg/color"
-	"github.com/ava-labs/avalanche-network-runner/pkg/logutil"
-	"github.com/ava-labs/avalanche-network-runner/server"
-	"github.com/ava-labs/avalanche-network-runner/utils"
+	"github.com/lasthyphen/dijigo-runners/client"
+	"github.com/lasthyphen/dijigo-runners/pkg/color"
+	"github.com/lasthyphen/dijigo-runners/pkg/logutil"
+	"github.com/lasthyphen/dijigo-runners/server"
+	"github.com/lasthyphen/dijigo-runners/utils"
 
 	"github.com/lasthyphen/beacongo/api/admin"
 	"github.com/lasthyphen/beacongo/ids"

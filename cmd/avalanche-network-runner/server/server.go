@@ -11,8 +11,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/ava-labs/avalanche-network-runner/pkg/logutil"
-	"github.com/ava-labs/avalanche-network-runner/server"
+	"github.com/lasthyphen/dijigo-runners/pkg/logutil"
+	"github.com/lasthyphen/dijigo-runners/server"
 	"github.com/spf13/cobra"
 	"go.uber.org/zap"
 )

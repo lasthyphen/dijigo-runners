@@ -14,11 +14,11 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/ava-labs/avalanche-network-runner/client"
-	"github.com/ava-labs/avalanche-network-runner/local"
-	"github.com/ava-labs/avalanche-network-runner/pkg/color"
-	"github.com/ava-labs/avalanche-network-runner/pkg/logutil"
-	"github.com/ava-labs/avalanche-network-runner/rpcpb"
+	"github.com/lasthyphen/dijigo-runners/client"
+	"github.com/lasthyphen/dijigo-runners/local"
+	"github.com/lasthyphen/dijigo-runners/pkg/color"
+	"github.com/lasthyphen/dijigo-runners/pkg/logutil"
+	"github.com/lasthyphen/dijigo-runners/rpcpb"
 	"github.com/spf13/cobra"
 	"go.uber.org/zap"
 )

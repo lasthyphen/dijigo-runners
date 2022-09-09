@@ -3,7 +3,7 @@
 package mocks
 
 import (
-	api "github.com/ava-labs/avalanche-network-runner/api"
+	api "github.com/lasthyphen/dijigo-runners/api"
 	admin "github.com/lasthyphen/beacongo/api/admin"
 
 	avm "github.com/lasthyphen/beacongo/vms/avm"

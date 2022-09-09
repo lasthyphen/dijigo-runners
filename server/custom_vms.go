@@ -12,9 +12,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ava-labs/avalanche-network-runner/pkg/color"
-	"github.com/ava-labs/avalanche-network-runner/rpcpb"
-	"github.com/ava-labs/avalanche-network-runner/utils"
+	"github.com/lasthyphen/dijigo-runners/pkg/color"
+	"github.com/lasthyphen/dijigo-runners/rpcpb"
+	"github.com/lasthyphen/dijigo-runners/utils"
 	"github.com/lasthyphen/beacongo/config"
 	"github.com/lasthyphen/beacongo/genesis"
 	"github.com/lasthyphen/beacongo/ids"
